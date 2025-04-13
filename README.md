@@ -1,4 +1,4 @@
-![4cbe5ab323b3a7512a470810e04fe61](https://github.com/user-attachments/assets/3f6c0340-e341-486b-b886-8a4773c3b087)## Hi there 👋
+## Hi there 👋
 
 <!--
 **rxx-729/rxx-729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
